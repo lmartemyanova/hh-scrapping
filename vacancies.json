@@ -1,0 +1,933 @@
+[
+    {
+        "position": "Старший программист-разработчик (Python/Django) / Senior back-end developer",
+        "link": "https://hh.ru/vacancy/80002041?from=vacancy_search_list&query=python",
+        "company": "CATAPULTO.RU",
+        "city": "Москва, Павелецкая и еще 1",
+        "salary": "200 000 – 300 000 руб."
+    },
+    {
+        "position": "Junior Python разработчик",
+        "link": "https://hh.ru/vacancy/82128820?from=vacancy_search_list&query=python",
+        "company": "ООО Виста",
+        "city": "Санкт-Петербург",
+        "salary": "от 60 000 руб."
+    },
+    {
+        "position": "Младший специалист отдела разработки (Python) / Специалист по парсингу данных",
+        "link": "https://hh.ru/vacancy/81639879?from=vacancy_search_list&query=python",
+        "company": "MillionAgents",
+        "city": "Москва, Сухаревская",
+        "salary": "до 70 000 руб."
+    },
+    {
+        "position": "Python Developer",
+        "link": "https://hh.ru/vacancy/81442089?from=vacancy_search_list&query=python",
+        "company": "B.ART",
+        "city": "Москва",
+        "salary": "150 000 – 200 000 руб."
+    },
+    {
+        "position": "Middle Разработчик Python (Backend)",
+        "link": "https://hh.ru/vacancy/81974265?from=vacancy_search_list&query=python",
+        "company": "ООО Корпорация ЗНАК",
+        "city": "Москва, Савёловская",
+        "salary": "180 000 – 240 000 руб."
+    },
+    {
+        "position": "Программист Python",
+        "link": "https://hh.ru/vacancy/82163837?from=vacancy_search_list&query=python",
+        "company": "ООО АВ Софт",
+        "city": "Москва, Окружная",
+        "salary": "до 300 000 руб."
+    },
+    {
+        "position": "Программист",
+        "link": "https://hh.ru/vacancy/81922420?from=vacancy_search_list&query=python",
+        "company": "ООО ЧОП Центавр",
+        "city": "Москва",
+        "salary": "от 250 000 руб."
+    },
+    {
+        "position": "Python developer (Банк)",
+        "link": "https://hh.ru/vacancy/82092034?from=vacancy_search_list&query=python",
+        "company": "ООО АЙТИ.СПЕЙС",
+        "city": "Москва",
+        "salary": "200 000 – 330 000 руб."
+    },
+    {
+        "position": "Python Developer",
+        "link": "https://hh.ru/vacancy/81407418?from=vacancy_search_list&query=python",
+        "company": "ООО Телеформ ИС",
+        "city": "Москва",
+        "salary": "120 000 – 160 000 руб."
+    },
+    {
+        "position": "Python-разработчик",
+        "link": "https://hh.ru/vacancy/81542736?from=vacancy_search_list&query=python",
+        "company": "ИНСКОМ",
+        "city": "Москва, Нагатинская",
+        "salary": "200 000 – 230 000 руб."
+    },
+    {
+        "position": "Senior / Middle python developer",
+        "link": "https://hh.ru/vacancy/81716522?from=vacancy_search_list&query=python",
+        "company": "B.ART",
+        "city": "Москва",
+        "salary": "140 000 – 450 000 руб."
+    },
+    {
+        "position": "Разработчик Python",
+        "link": "https://hh.ru/vacancy/81324617?from=vacancy_search_list&query=python",
+        "company": "ООО ЭВОЛА",
+        "city": "Москва, Выставочная и еще 2",
+        "salary": "100 000 – 200 000 руб."
+    },
+    {
+        "position": "Python developer",
+        "link": "https://hh.ru/vacancy/81083477?from=vacancy_search_list&query=python",
+        "company": "ООО Маркет Папа",
+        "city": "Москва",
+        "salary": "не указано"
+    },
+    {
+        "position": "Python разработчик",
+        "link": "https://hh.ru/vacancy/81866221?from=vacancy_search_list&query=python",
+        "company": "ООО АЙТИ.СПЕЙС",
+        "city": "Москва",
+        "salary": "до 330 000 руб."
+    },
+    {
+        "position": "Программист Python",
+        "link": "https://hh.ru/vacancy/82039618?from=vacancy_search_list&query=python",
+        "company": "БО-ЭНЕРГО",
+        "city": "Москва, Электрозаводская",
+        "salary": "до 130 000 руб."
+    },
+    {
+        "position": "Разработчик Python",
+        "link": "https://hh.ru/vacancy/81870188?from=vacancy_search_list&query=python",
+        "company": "ООО Смарт Консалт",
+        "city": "Москва",
+        "salary": "от 150 000 руб."
+    },
+    {
+        "position": "Full Stack (Python + JavaScript) инженер",
+        "link": "https://hh.ru/vacancy/82161958?from=vacancy_search_list&query=python",
+        "company": "Eiwa (ООО Рекламная платформа)",
+        "city": "Санкт-Петербург",
+        "salary": "150 000 – 250 000 руб."
+    },
+    {
+        "position": "Django разработчик middle/middle+ (удаленно)",
+        "link": "https://hh.ru/vacancy/81972769?from=vacancy_search_list&query=python",
+        "company": "GetTask",
+        "city": "Москва",
+        "salary": "120 000 – 180 000 руб."
+    },
+    {
+        "position": "Программист Python",
+        "link": "https://hh.ru/vacancy/67711604?from=vacancy_search_list&query=python",
+        "company": "НИЦ СПб ЭТУ (Научно-инженерный центр Санкт-Петербургского электротехнического университета)",
+        "city": "Санкт-Петербург, Площадь Мужества",
+        "salary": "не указано"
+    },
+    {
+        "position": "Python Developer",
+        "link": "https://hh.ru/vacancy/81915818?from=vacancy_search_list&query=python",
+        "company": "ТОО Improvado KZ",
+        "city": "Москва",
+        "salary": "2 500 – 4 000 USD"
+    },
+    {
+        "position": "Teamlead backend (python)",
+        "link": "https://hh.ru/vacancy/80980780?from=vacancy_search_list&query=python",
+        "company": "Триафлай",
+        "city": "Москва, Кузнецкий мост",
+        "salary": "от 300 000 руб."
+    },
+    {
+        "position": "Разработчик Python",
+        "link": "https://hh.ru/vacancy/82138937?from=vacancy_search_list&query=python",
+        "company": "АО АСТ",
+        "city": "Москва, Волгоградский проспект и еще 1",
+        "salary": "до 250 000 руб."
+    },
+    {
+        "position": "Python-developer",
+        "link": "https://hh.ru/vacancy/67635148?from=vacancy_search_list&query=python",
+        "company": "Тензор",
+        "city": "Санкт-Петербург",
+        "salary": "100 000 – 215 000 руб."
+    },
+    {
+        "position": "Middle Backend разработчик (Python + Golang)",
+        "link": "https://hh.ru/vacancy/81456446?from=vacancy_search_list&query=python",
+        "company": "Tevian (ООО Технологии видеоанализа)",
+        "city": "Москва",
+        "salary": "200 000 – 285 000 руб."
+    },
+    {
+        "position": "Python - разработчик (Django)",
+        "link": "https://hh.ru/vacancy/80036283?from=vacancy_search_list&query=python",
+        "company": "Группа Самолет",
+        "city": "Москва",
+        "salary": "не указано"
+    },
+    {
+        "position": "PHP pазработчик со знанием Python (Django)",
+        "link": "https://hh.ru/vacancy/82143284?from=vacancy_search_list&query=python",
+        "company": "Digital Strategy",
+        "city": "Москва, Электрозаводская",
+        "salary": "не указано"
+    },
+    {
+        "position": "Инженер-тестировщик",
+        "link": "https://hh.ru/vacancy/81116839?from=vacancy_search_list&query=python",
+        "company": "Цифровые решения, НПП",
+        "city": "Москва, Авиамоторная",
+        "salary": "от 60 000 руб."
+    },
+    {
+        "position": "Jun+ Python разработчик (Remote)",
+        "link": "https://hh.ru/vacancy/81764147?from=vacancy_search_list&query=python",
+        "company": "Юг Руси",
+        "city": "Москва",
+        "salary": "до 135 000 руб."
+    },
+    {
+        "position": "Middle Python developer",
+        "link": "https://hh.ru/vacancy/72687504?from=vacancy_search_list&query=python",
+        "company": "ООО Селфсек",
+        "city": "Москва, Трубная и еще 2",
+        "salary": "150 000 – 200 000 руб."
+    },
+    {
+        "position": "Python Developer (Infrastructure)",
+        "link": "https://hh.ru/vacancy/76680884?from=vacancy_search_list&query=python",
+        "company": "Lesta Games",
+        "city": "Москва, Савёловская и еще 2",
+        "salary": "не указано"
+    },
+    {
+        "position": "Senior Python Developer (remote)",
+        "link": "https://hh.ru/vacancy/80846958?from=vacancy_search_list&query=python",
+        "company": "LATOKEN",
+        "city": "Москва",
+        "salary": "от 3 500 USD"
+    },
+    {
+        "position": "Team Lead Python",
+        "link": "https://hh.ru/vacancy/81922758?from=vacancy_search_list&query=python",
+        "company": "ООО «Баланс-Платформа»",
+        "city": "Москва",
+        "salary": "до 420 000 руб."
+    },
+    {
+        "position": "MLOps/ML engineer (Middle+)",
+        "link": "https://hh.ru/vacancy/81489493?from=vacancy_search_list&query=python",
+        "company": "DIGINETICA",
+        "city": "Москва",
+        "salary": "200 000 – 280 000 руб."
+    },
+    {
+        "position": "Senior Backend Engineer (Python)",
+        "link": "https://hh.ru/vacancy/81797081?from=vacancy_search_list&query=python",
+        "company": "Bright Mobile Apps",
+        "city": "Санкт-Петербург",
+        "salary": "до 4 000 USD"
+    },
+    {
+        "position": "Наставник в Мастеркую на курс Python-разработчик в Яндекс Практикум",
+        "link": "https://hh.ru/vacancy/80500827?from=vacancy_search_list&query=python",
+        "company": "Яндекс",
+        "city": "Москва",
+        "salary": "не указано"
+    },
+    {
+        "position": "Senior Backend Engineer (Python)",
+        "link": "https://hh.ru/vacancy/81797080?from=vacancy_search_list&query=python",
+        "company": "Bright Mobile Apps",
+        "city": "Москва",
+        "salary": "до 4 000 USD"
+    },
+    {
+        "position": "Старший разработчик Python/Django (HR платформа)",
+        "link": "https://hh.ru/vacancy/80027558?from=vacancy_search_list&query=python",
+        "company": "Группа Самолет",
+        "city": "Москва",
+        "salary": "не указано"
+    },
+    {
+        "position": "MLOps/ML engineer (Middle+)",
+        "link": "https://hh.ru/vacancy/81489494?from=vacancy_search_list&query=python",
+        "company": "DIGINETICA",
+        "city": "Санкт-Петербург",
+        "salary": "200 000 – 280 000 руб."
+    },
+    {
+        "position": "Программист Python",
+        "link": "https://hh.ru/vacancy/81797395?from=vacancy_search_list&query=python",
+        "company": "NF Group",
+        "city": "Москва",
+        "salary": "не указано"
+    },
+    {
+        "position": "Техлид Python",
+        "link": "https://hh.ru/vacancy/81916145?from=vacancy_search_list&query=python",
+        "company": "ANCOR",
+        "city": "Москва",
+        "salary": "до 240 000 руб."
+    },
+    {
+        "position": "Jun+ Python Разработчик",
+        "link": "https://hh.ru/vacancy/80953982?from=vacancy_search_list&query=python",
+        "company": "Юг Руси",
+        "city": "Москва",
+        "salary": "90 000 – 150 000 руб."
+    },
+    {
+        "position": "Python-разработчик",
+        "link": "https://hh.ru/vacancy/80506144?from=vacancy_search_list&query=python",
+        "company": "ООО ВижнЛабс (VisionLabs)",
+        "city": "Москва",
+        "salary": "от 200 000 руб."
+    },
+    {
+        "position": "Python Developer",
+        "link": "https://hh.ru/vacancy/81578092?from=vacancy_search_list&query=python",
+        "company": "HR Prime",
+        "city": "Москва",
+        "salary": "180 000 – 380 000 руб."
+    },
+    {
+        "position": "Python Team Lead / Руководитель backend разработки (в аккредитованную ИТ компанию)",
+        "link": "https://hh.ru/vacancy/81228634?from=vacancy_search_list&query=python",
+        "company": "GRI",
+        "city": "Москва, Мякинино и еще 3",
+        "salary": "350 000 – 400 000 руб."
+    },
+    {
+        "position": "Python developer (Middle+/Senior)",
+        "link": "https://hh.ru/vacancy/81677608?from=vacancy_search_list&query=python",
+        "company": "Zonesmart LLC",
+        "city": "Москва",
+        "salary": "2 500 – 4 500 USD"
+    },
+    {
+        "position": "Разработчик Python,  удаленно",
+        "link": "https://hh.ru/vacancy/81525694?from=vacancy_search_list&query=python",
+        "company": "ООО Кадровый центр Президент",
+        "city": "Москва",
+        "salary": "200 000 – 350 000 руб."
+    },
+    {
+        "position": "Наставник курса \"Мидл python-разработчик\" в Яндекс Практикум",
+        "link": "https://hh.ru/vacancy/81966836?from=vacancy_search_list&query=python",
+        "company": "Яндекс",
+        "city": "Москва",
+        "salary": "не указано"
+    },
+    {
+        "position": "Middle Python developer",
+        "link": "https://hh.ru/vacancy/81569288?from=vacancy_search_list&query=python",
+        "company": "ООО Соломон",
+        "city": "Санкт-Петербург",
+        "salary": "120 000 – 170 000 руб."
+    },
+    {
+        "position": "Инженер-разработчик (Python)",
+        "link": "https://hh.ru/vacancy/81307896?from=vacancy_search_list&query=python",
+        "company": "ООО ЦРПТ (Центр развития перспективных технологий)",
+        "city": "Санкт-Петербург",
+        "salary": "не указано"
+    },
+    {
+        "position": "Backend разработчик Python+Django",
+        "link": "https://hh.ru/vacancy/80880575?from=vacancy_search_list&query=python",
+        "company": "MATCHER (ИП Дегтева Юлия Владимировна)",
+        "city": "Москва",
+        "salary": "до 350 000 руб."
+    },
+    {
+        "position": "Backend Middle+ Python разработчик",
+        "link": "https://hh.ru/vacancy/78108166?from=vacancy_search_list&query=python",
+        "company": "Наймиум",
+        "city": "Санкт-Петербург",
+        "salary": "до 180 000 руб."
+    },
+    {
+        "position": "Python-разработчик",
+        "link": "https://hh.ru/vacancy/80871185?from=vacancy_search_list&query=python",
+        "company": "А-Контракт",
+        "city": "Санкт-Петербург, Выборгская и еще 2",
+        "salary": "от 100 000 руб."
+    },
+    {
+        "position": "Python middle backend developer",
+        "link": "https://hh.ru/vacancy/81348808?from=vacancy_search_list&query=python",
+        "company": "Университет ИТМО",
+        "city": "Санкт-Петербург, Василеостровская",
+        "salary": "140 000 – 200 000 руб."
+    },
+    {
+        "position": "Ведущий разработчик Python (Senior Python Developer)",
+        "link": "https://hh.ru/vacancy/81246630?from=vacancy_search_list&query=python",
+        "company": "ООО ТН Цифровая Логистика",
+        "city": "Москва",
+        "salary": "до 350 000 руб."
+    },
+    {
+        "position": "Python developer",
+        "link": "https://hh.ru/vacancy/82105829?from=vacancy_search_list&query=python",
+        "company": "Главгосэкспертиза России",
+        "city": "Москва",
+        "salary": "не указано"
+    },
+    {
+        "position": "Senior Python (Django) Developer",
+        "link": "https://hh.ru/vacancy/80998112?from=vacancy_search_list&query=python",
+        "company": "Группа Самолет",
+        "city": "Москва",
+        "salary": "не указано"
+    },
+    {
+        "position": "Разработчик Python",
+        "link": "https://hh.ru/vacancy/82246302?from=vacancy_search_list&query=python",
+        "company": "INFOWATCH",
+        "city": "Москва",
+        "salary": "не указано"
+    },
+    {
+        "position": "Python-разработчик в команду инфраструктуры",
+        "link": "https://hh.ru/vacancy/82093507?from=vacancy_search_list&query=python",
+        "company": "Яндекс",
+        "city": "Санкт-Петербург",
+        "salary": "не указано"
+    },
+    {
+        "position": "Backend-разработчик",
+        "link": "https://hh.ru/vacancy/82109280?from=vacancy_search_list&query=python",
+        "company": "ФГАНУ Центр информационных технологий и систем органов исполнительной власти",
+        "city": "Москва",
+        "salary": "не указано"
+    },
+    {
+        "position": "Python разработчик (корпоративные сервисы)",
+        "link": "https://hh.ru/vacancy/82198128?from=vacancy_search_list&query=python",
+        "company": "NETRIKA",
+        "city": "Санкт-Петербург",
+        "salary": "не указано"
+    },
+    {
+        "position": "Python-разработчик ВИСТ Групп",
+        "link": "https://hh.ru/vacancy/82127465?from=vacancy_search_list&query=python",
+        "company": "ООО ЦИФРА",
+        "city": "Москва, Университет",
+        "salary": "не указано"
+    },
+    {
+        "position": "Python developer",
+        "link": "https://hh.ru/vacancy/82132898?from=vacancy_search_list&query=python",
+        "company": "HEADS and HANDS",
+        "city": "Санкт-Петербург",
+        "salary": "не указано"
+    },
+    {
+        "position": "Главный разработчик Python",
+        "link": "https://hh.ru/vacancy/78421936?from=vacancy_search_list&query=python",
+        "company": "Ай-Теко (I-Teco)",
+        "city": "Москва",
+        "salary": "не указано"
+    },
+    {
+        "position": "Python разработчик (Middle/Senior)",
+        "link": "https://hh.ru/vacancy/82256738?from=vacancy_search_list&query=python",
+        "company": "ООО WaveAccess",
+        "city": "Санкт-Петербург",
+        "salary": "не указано"
+    },
+    {
+        "position": "Data scientist (middle)",
+        "link": "https://hh.ru/vacancy/82108037?from=vacancy_search_list&query=python",
+        "company": "Работут",
+        "city": "Москва",
+        "salary": "не указано"
+    },
+    {
+        "position": "Teamlead Python Backend (Remote)",
+        "link": "https://hh.ru/vacancy/82228791?from=vacancy_search_list&query=python",
+        "company": "JetLend",
+        "city": "Санкт-Петербург",
+        "salary": "не указано"
+    },
+    {
+        "position": "Python developer (middle/middle+)",
+        "link": "https://hh.ru/vacancy/82175945?from=vacancy_search_list&query=python",
+        "company": "HEADS and HANDS",
+        "city": "Санкт-Петербург",
+        "salary": "не указано"
+    },
+    {
+        "position": "Python разработчик (Senior) (PT CERT)",
+        "link": "https://hh.ru/vacancy/82042400?from=vacancy_search_list&query=python",
+        "company": "Positive Technologies",
+        "city": "Москва",
+        "salary": "не указано"
+    },
+    {
+        "position": "Python разработчик (Senior) (PT CERT)",
+        "link": "https://hh.ru/vacancy/82042401?from=vacancy_search_list&query=python",
+        "company": "Positive Technologies",
+        "city": "Санкт-Петербург",
+        "salary": "не указано"
+    },
+    {
+        "position": "Teamlead Python Backend (Remote)",
+        "link": "https://hh.ru/vacancy/81884227?from=vacancy_search_list&query=python",
+        "company": "JetLend",
+        "city": "Москва",
+        "salary": "не указано"
+    },
+    {
+        "position": "Team Lead Python/Golang",
+        "link": "https://hh.ru/vacancy/81972329?from=vacancy_search_list&query=python",
+        "company": "Instories",
+        "city": "Москва",
+        "salary": "не указано"
+    },
+    {
+        "position": "Python developer / django",
+        "link": "https://hh.ru/vacancy/81483949?from=vacancy_search_list&query=python",
+        "company": "Литрес",
+        "city": "Москва, Выставочная и еще 1",
+        "salary": "не указано"
+    },
+    {
+        "position": "Middle+/Senior Python Developer",
+        "link": "https://hh.ru/vacancy/80000492?from=vacancy_search_list&query=python",
+        "company": "Омега Технологии будущего",
+        "city": "Санкт-Петербург, Площадь Александра Невского 1 и еще 1",
+        "salary": "не указано"
+    },
+    {
+        "position": "Разработчик Python",
+        "link": "https://hh.ru/vacancy/81967043?from=vacancy_search_list&query=python",
+        "company": "АО Первая Грузовая Компания, IT/Digital",
+        "city": "Москва, Бауманская и еще 2",
+        "salary": "не указано"
+    },
+    {
+        "position": "Python Developer",
+        "link": "https://hh.ru/vacancy/82055942?from=vacancy_search_list&query=python",
+        "company": "Deventica",
+        "city": "Санкт-Петербург",
+        "salary": "не указано"
+    },
+    {
+        "position": "Python-разработчик",
+        "link": "https://hh.ru/vacancy/81953987?from=vacancy_search_list&query=python",
+        "company": "InterPress - International House",
+        "city": "Москва",
+        "salary": "не указано"
+    },
+    {
+        "position": "Senior Python Developer",
+        "link": "https://hh.ru/vacancy/82055766?from=vacancy_search_list&query=python",
+        "company": "Skillbox",
+        "city": "Москва",
+        "salary": "не указано"
+    },
+    {
+        "position": "Lead / Senior Python developer",
+        "link": "https://hh.ru/vacancy/79419363?from=vacancy_search_list&query=python",
+        "company": "NETRIKA",
+        "city": "Санкт-Петербург",
+        "salary": "не указано"
+    },
+    {
+        "position": "Код-ревьюер курса \"Мидл python-разработчик\" в Яндекс Практикум",
+        "link": "https://hh.ru/vacancy/81939255?from=vacancy_search_list&query=python",
+        "company": "Яндекс",
+        "city": "Москва",
+        "salary": "не указано"
+    },
+    {
+        "position": "Ведущий Python разработчик (Yappy)",
+        "link": "https://hh.ru/vacancy/79888491?from=vacancy_search_list&query=python",
+        "company": "Rutube",
+        "city": "Москва, Аэропорт и еще 2",
+        "salary": "не указано"
+    },
+    {
+        "position": "Python developer (команда ML решений)",
+        "link": "https://hh.ru/vacancy/81961212?from=vacancy_search_list&query=python",
+        "company": "ООО Оператор Газпром ИД",
+        "city": "Санкт-Петербург, Чернышевская",
+        "salary": "не указано"
+    },
+    {
+        "position": "Junior Quantitative Researcher and Developer",
+        "link": "https://hh.ru/vacancy/82055291?from=vacancy_search_list&query=python",
+        "company": "One of the leading global HFT companies with a truly advanced stack.",
+        "city": "Москва",
+        "salary": "не указано"
+    },
+    {
+        "position": "Python разработчик ( команда РБК PRO )",
+        "link": "https://hh.ru/vacancy/81895572?from=vacancy_search_list&query=python",
+        "company": "РБК",
+        "city": "Москва",
+        "salary": "не указано"
+    },
+    {
+        "position": "Team Lead/Senior Python Developer (remote)",
+        "link": "https://hh.ru/vacancy/78363369?from=vacancy_search_list&query=python",
+        "company": "BestDoctor",
+        "city": "Москва",
+        "salary": "от 300 000 руб."
+    },
+    {
+        "position": "Python developer (Middle)",
+        "link": "https://hh.ru/vacancy/81843757?from=vacancy_search_list&query=python",
+        "company": "Media 108",
+        "city": "Москва, Достоевская и еще 2",
+        "salary": "не указано"
+    },
+    {
+        "position": "Middle Python developer",
+        "link": "https://hh.ru/vacancy/80053291?from=vacancy_search_list&query=python",
+        "company": "ООО СимбирСофт",
+        "city": "Санкт-Петербург",
+        "salary": "не указано"
+    },
+    {
+        "position": "Python developer (Middle)",
+        "link": "https://hh.ru/vacancy/80496136?from=vacancy_search_list&query=python",
+        "company": "Kokoc Group",
+        "city": "Москва",
+        "salary": "не указано"
+    },
+    {
+        "position": "Python developer (Middle)",
+        "link": "https://hh.ru/vacancy/80496137?from=vacancy_search_list&query=python",
+        "company": "Kokoc Group",
+        "city": "Санкт-Петербург",
+        "salary": "не указано"
+    },
+    {
+        "position": "Senior OpenStack Python specialist",
+        "link": "https://hh.ru/vacancy/75725924?from=vacancy_search_list&query=python",
+        "company": "Cloud.ru",
+        "city": "Москва",
+        "salary": "не указано"
+    },
+    {
+        "position": "Python программист",
+        "link": "https://hh.ru/vacancy/81751430?from=vacancy_search_list&query=python",
+        "company": "NETRIKA",
+        "city": "Санкт-Петербург",
+        "salary": "не указано"
+    },
+    {
+        "position": "Middle+/Senior Python Developer",
+        "link": "https://hh.ru/vacancy/79461555?from=vacancy_search_list&query=python",
+        "company": "Новео",
+        "city": "Москва",
+        "salary": "не указано"
+    },
+    {
+        "position": "Senior Python + SQL (remote work)",
+        "link": "https://hh.ru/vacancy/80253759?from=vacancy_search_list&query=python",
+        "company": "Новео",
+        "city": "Санкт-Петербург",
+        "salary": "не указано"
+    },
+    {
+        "position": "Tech Lead (Python)",
+        "link": "https://hh.ru/vacancy/81764312?from=vacancy_search_list&query=python",
+        "company": "Т1 Консалтинг",
+        "city": "Москва",
+        "salary": "не указано"
+    },
+    {
+        "position": "Middle Разработчик Python",
+        "link": "https://hh.ru/vacancy/81614473?from=vacancy_search_list&query=python",
+        "company": "ООО Global Ports Management",
+        "city": "Санкт-Петербург",
+        "salary": "не указано"
+    },
+    {
+        "position": "Platform Python developer",
+        "link": "https://hh.ru/vacancy/81702904?from=vacancy_search_list&query=python",
+        "company": "YADRO",
+        "city": "Санкт-Петербург",
+        "salary": "не указано"
+    },
+    {
+        "position": "Backend developer Python (middle/senior)",
+        "link": "https://hh.ru/vacancy/80220138?from=vacancy_search_list&query=python",
+        "company": "Ростелеком - Центры обработки данных",
+        "city": "Москва",
+        "salary": "не указано"
+    },
+    {
+        "position": "Middle Backend Developer (Python)",
+        "link": "https://hh.ru/vacancy/81598011?from=vacancy_search_list&query=python",
+        "company": "ООО Объединение когнитивных ассоциативных систем",
+        "city": "Санкт-Петербург",
+        "salary": "не указано"
+    },
+    {
+        "position": "Разработчик Python",
+        "link": "https://hh.ru/vacancy/81547190?from=vacancy_search_list&query=python",
+        "company": "ООО Ростелеком Информационные Технологии",
+        "city": "Москва",
+        "salary": "не указано"
+    },
+    {
+        "position": "Middle Python разработчик",
+        "link": "https://hh.ru/vacancy/81584846?from=vacancy_search_list&query=python",
+        "company": "Positive Technologies",
+        "city": "Москва",
+        "salary": "не указано"
+    },
+    {
+        "position": "Backend разработчик (Python)",
+        "link": "https://hh.ru/vacancy/81615441?from=vacancy_search_list&query=python",
+        "company": "КОНТРОЛ лизинг",
+        "city": "Москва",
+        "salary": "не указано"
+    },
+    {
+        "position": "Backend разработчик (Python)",
+        "link": "https://hh.ru/vacancy/81615442?from=vacancy_search_list&query=python",
+        "company": "КОНТРОЛ лизинг",
+        "city": "Санкт-Петербург",
+        "salary": "не указано"
+    },
+    {
+        "position": "Разработчик Python",
+        "link": "https://hh.ru/vacancy/81539195?from=vacancy_search_list&query=python",
+        "company": "ООО SolidLab",
+        "city": "Москва",
+        "salary": "не указано"
+    },
+    {
+        "position": "Middle Python Разработчик",
+        "link": "https://hh.ru/vacancy/77126191?from=vacancy_search_list&query=python",
+        "company": "Кузница Кадров",
+        "city": "Москва",
+        "salary": "не указано"
+    },
+    {
+        "position": "Fullstack Developer (Python/JavaScript/SQL)",
+        "link": "https://hh.ru/vacancy/81604369?from=vacancy_search_list&query=python",
+        "company": "Т1 Консалтинг",
+        "city": "Москва",
+        "salary": "не указано"
+    },
+    {
+        "position": "Разработчик Python",
+        "link": "https://hh.ru/vacancy/79156242?from=vacancy_search_list&query=python",
+        "company": "Газпром нефть",
+        "city": "Санкт-Петербург",
+        "salary": "не указано"
+    },
+    {
+        "position": "Senior Python developer (remote)",
+        "link": "https://hh.ru/vacancy/81525809?from=vacancy_search_list&query=python",
+        "company": "ООО Банк 131",
+        "city": "Москва",
+        "salary": "не указано"
+    },
+    {
+        "position": "Разработчик Python(RuPost)",
+        "link": "https://hh.ru/vacancy/43558725?from=vacancy_search_list&query=python",
+        "company": "Группа компаний Астра",
+        "city": "Москва, Верхние Котлы и еще 1",
+        "salary": "не указано"
+    },
+    {
+        "position": "Middle+/Senior Python Developer",
+        "link": "https://hh.ru/vacancy/78828438?from=vacancy_search_list&query=python",
+        "company": "Nedra Digital",
+        "city": "Санкт-Петербург, Василеостровская и еще 1",
+        "salary": "не указано"
+    },
+    {
+        "position": "Разработчик Python (Django)",
+        "link": "https://hh.ru/vacancy/80054131?from=vacancy_search_list&query=python",
+        "company": "Электронная торговая площадка Газпромбанка",
+        "city": "Москва",
+        "salary": "не указано"
+    },
+    {
+        "position": "Middle/Senior python developer",
+        "link": "https://hh.ru/vacancy/73910485?from=vacancy_search_list&query=python",
+        "company": "АО К-ТЕХНОЛОГИИ",
+        "city": "Москва",
+        "salary": "не указано"
+    },
+    {
+        "position": "Python разработчик",
+        "link": "https://hh.ru/vacancy/79815698?from=vacancy_search_list&query=python",
+        "company": "The Skolkovo Institute of Science and Technology",
+        "city": "Москва, Славянский бульвар",
+        "salary": "не указано"
+    },
+    {
+        "position": "Middle Python разработчик на продукт ILM (DataOps Platform)",
+        "link": "https://hh.ru/vacancy/81216480?from=vacancy_search_list&query=python",
+        "company": "ПАО МТС",
+        "city": "Москва, Технопарк",
+        "salary": "не указано"
+    },
+    {
+        "position": "Разработчик Python - backend Senior",
+        "link": "https://hh.ru/vacancy/81224885?from=vacancy_search_list&query=python",
+        "company": "EGAR TECHNOLOGY, INC.",
+        "city": "Санкт-Петербург",
+        "salary": "не указано"
+    },
+    {
+        "position": "Middle/Senior Python разработчик (Django)",
+        "link": "https://hh.ru/vacancy/80875411?from=vacancy_search_list&query=python",
+        "company": "Eqwile",
+        "city": "Москва",
+        "salary": "не указано"
+    },
+    {
+        "position": "Старший Python + Go разработчик",
+        "link": "https://hh.ru/vacancy/81030576?from=vacancy_search_list&query=python",
+        "company": "Иви",
+        "city": "Москва, Дмитровская",
+        "salary": "не указано"
+    },
+    {
+        "position": "Middle/Senior Python Developer",
+        "link": "https://hh.ru/vacancy/81020891?from=vacancy_search_list&query=python",
+        "company": "ООО БОЛЬШАЯ ТРОЙКА",
+        "city": "Москва",
+        "salary": "не указано"
+    },
+    {
+        "position": "Senior Python developer",
+        "link": "https://hh.ru/vacancy/81354060?from=vacancy_search_list&query=python",
+        "company": "Mad Brains",
+        "city": "Москва",
+        "salary": "не указано"
+    },
+    {
+        "position": "Junior+ Python developer (Django)",
+        "link": "https://hh.ru/vacancy/81617538?from=vacancy_search_list&query=python",
+        "company": "ИП Фасхутдинов Динар Русланович",
+        "city": "Москва",
+        "salary": "30 000 – 50 000 руб."
+    },
+    {
+        "position": "Backend-разработчик (Python)",
+        "link": "https://hh.ru/vacancy/81885543?from=vacancy_search_list&query=python",
+        "company": "ПИКАССО",
+        "city": "Санкт-Петербург",
+        "salary": "от 70 000 руб."
+    },
+    {
+        "position": "Python-разработчик (middle, удаленно)",
+        "link": "https://hh.ru/vacancy/80950478?from=vacancy_search_list&query=python",
+        "company": "Red Promo",
+        "city": "Москва, Академическая",
+        "salary": "150 000 – 200 000 руб."
+    },
+    {
+        "position": "Python программист (Наставник онлайн-курса по Python)",
+        "link": "https://hh.ru/vacancy/67864415?from=vacancy_search_list&query=python",
+        "company": "Hexlet",
+        "city": "Москва",
+        "salary": "до 80 000 руб."
+    },
+    {
+        "position": "Middle Python developer (remote)",
+        "link": "https://hh.ru/vacancy/81749816?from=vacancy_search_list&query=python",
+        "company": "ЮТэйр, Авиакомпания",
+        "city": "Санкт-Петербург",
+        "salary": "не указано"
+    },
+    {
+        "position": "Python/C++ Software Developer (Scientific platform)",
+        "link": "https://hh.ru/vacancy/79041274?from=vacancy_search_list&query=python",
+        "company": "The Skolkovo Institute of Science and Technology",
+        "city": "Москва, Славянский бульвар",
+        "salary": "не указано"
+    },
+    {
+        "position": "IT-специалист/Помощник разработчика",
+        "link": "https://hh.ru/vacancy/82191978?from=vacancy_search_list&query=python",
+        "company": "ООО Рамтроника",
+        "city": "Москва, Перово и еще 2",
+        "salary": "70 000 – 100 000 руб."
+    },
+    {
+        "position": "Старший программист",
+        "link": "https://hh.ru/vacancy/80896666?from=vacancy_search_list&query=python",
+        "company": "Группа Самолет",
+        "city": "Москва",
+        "salary": "не указано"
+    },
+    {
+        "position": "Ведущий разработчик (Senior Back-End Developer)",
+        "link": "https://hh.ru/vacancy/80901279?from=vacancy_search_list&query=python",
+        "company": "Группа Самолет",
+        "city": "Москва",
+        "salary": "не указано"
+    },
+    {
+        "position": "Middle Backend-разработчик",
+        "link": "https://hh.ru/vacancy/82248965?from=vacancy_search_list&query=python",
+        "company": "АО Гринатом. Центр Разработки.",
+        "city": "Москва",
+        "salary": "от 140 000 руб."
+    },
+    {
+        "position": "Backend developer (Termidesk)",
+        "link": "https://hh.ru/vacancy/82192511?from=vacancy_search_list&query=python",
+        "company": "Группа компаний Астра",
+        "city": "Москва",
+        "salary": "не указано"
+    },
+    {
+        "position": "DevOps Engineer в международную компанию про здоровье",
+        "link": "https://hh.ru/vacancy/81619113?from=vacancy_search_list&query=python",
+        "company": "AI Hub Group",
+        "city": "Москва",
+        "salary": "не указано"
+    },
+    {
+        "position": "QA automation engineer",
+        "link": "https://hh.ru/vacancy/81527583?from=vacancy_search_list&query=python",
+        "company": "АНО ЦИСМ",
+        "city": "Москва",
+        "salary": "не указано"
+    },
+    {
+        "position": "Senior backend developer/Computer vision system (remote)",
+        "link": "https://hh.ru/vacancy/81291885?from=vacancy_search_list&query=python",
+        "company": "ООО Инфотек",
+        "city": "Москва",
+        "salary": "не указано"
+    },
+    {
+        "position": "Разработчик для сбора статистики и оптимизации рекламных кампаний на маркетплейсе Wildberries",
+        "link": "https://hh.ru/vacancy/81741006?from=vacancy_search_list&query=python",
+        "company": "ИП Попов Максим Сергеевич",
+        "city": "Москва",
+        "salary": "от 60 000 руб."
+    },
+    {
+        "position": "Руководитель отдела разработки",
+        "link": "https://hh.ru/vacancy/80790789?from=vacancy_search_list&query=python",
+        "company": "Sape",
+        "city": "Москва",
+        "salary": "не указано"
+    }
+]

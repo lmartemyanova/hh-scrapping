@@ -5,6 +5,7 @@ import json
 import requests
 from bs4 import BeautifulSoup
 import fake_useragent
+from tqdm import tqdm
 
 
 def get_vacancies(text):
@@ -25,7 +26,7 @@ def get_vacancies(text):
         except Exception:
             return
         vacancies = []
-        for page in range(pages_count):
+        for page in tqdm(range(pages_count)):
             response = requests.get(
                 url=f'https://hh.ru/search/vacancy?area=1&area=2&search_field=name&search_field=company_name&search_field=description&enable_snippets=false&text={text}&customDomain=1&page={page}',
                 headers=headers
