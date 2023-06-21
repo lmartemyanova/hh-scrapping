@@ -76,15 +76,14 @@ def check_description(link):
         if 'django' not in description.lower() \
                 and 'flask' not in description.lower():
             return
-    except Exception as e:
-        print(f'{e}')
+    except Exception:
         return
     time.sleep(1)
     return link
 
 
 def write_json(vacancies):
-    with open('vacancies.json', 'w') as f:
+    with open('vacancies.json', 'w', encoding='utf-8') as f:
         json.dump(vacancies, f, indent=4, ensure_ascii=False)
         return
 
