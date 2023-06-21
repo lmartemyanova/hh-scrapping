@@ -1,3 +1,4 @@
+import re
 import time
 import json
 
@@ -82,6 +83,27 @@ def check_description(link):
     return link
 
 
+def clean_string(string):
+    cleaned_string = re.sub(r'\u00A0|\u202F', ' ', string)
+    return cleaned_string.strip()
+
+
+def clean_vacancy(vacancy):
+    position = clean_string(vacancy['position'])
+    link = vacancy['link']
+    company = clean_string(vacancy['company'])
+    city = clean_string(vacancy['city'])
+    salary = clean_string(vacancy['salary'])
+    vacancy = {
+        'position': position,
+        'link': link,
+        'company': company,
+        'city': city,
+        'salary': salary
+    }
+    return vacancy
+
+
 def write_json(vacancies):
     with open('vacancies.json', 'w', encoding='utf-8') as f:
         json.dump(vacancies, f, indent=4, ensure_ascii=False)
@@ -90,4 +112,5 @@ def write_json(vacancies):
 
 if __name__ == "__main__":
     vacancies = get_vacancies('python')
-    write_json(vacancies)
+    clean_vacancies = [clean_vacancy(vacancy) for vacancy in vacancies]
+    write_json(clean_vacancies)
