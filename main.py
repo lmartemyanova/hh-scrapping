@@ -1,3 +1,4 @@
+import re
 import time
 import json
 
@@ -6,6 +7,21 @@ from bs4 import BeautifulSoup
 import fake_useragent
 
 
+def cached(old_function):
+    cache = {}
+
+    def new_function(*args, **kwargs):
+        key = f'{args}_{kwargs}'
+        if key in cache:
+            return cache[key]
+        result = old_function(*args, **kwargs)
+        cache[key] = result
+        return result
+
+    return new_function
+
+
+@cached
 def get_links(text):
     fake_headers = fake_useragent.UserAgent()
     headers = {'user-agent': fake_headers.random}
@@ -19,7 +35,8 @@ def get_links(text):
     else:
         soup = BeautifulSoup(response.content, 'lxml')
         try:
-            pages_count = int(soup.find('div', class_='pager').find_all('span', recursive=False)[-1].find('a').find('span').text)
+            pages_count = int(
+                soup.find('div', class_='pager').find_all('span', recursive=False)[-1].find('a').find('span').text)
         except Exception:
             return
         links = []
@@ -61,11 +78,15 @@ def get_vacancies(links):
                     and 'flask' not in description.lower():
                 continue
             position = soup.find('div', class_='vacancy-title').find('h1', class_='bloko-header-section-1').text
-            company = soup.find('div', class_='vacancy-company-details').find('span', class_='vacancy-company-name').text
-            salary = soup.find('div', class_='vacancy-title').find('span', class_='bloko-header-section-2 bloko-header-section-2_lite').text
+            company = soup.find('div', class_='vacancy-company-details').find('span',
+                                                                              class_='vacancy-company-name').text
+            salary = soup.find('div', class_='vacancy-title').find('span',
+                                                                   class_='bloko-header-section-2 bloko-header-section-2_lite').text
             if not salary:
                 salary = "не указана"
-            city = soup.find('div', class_='vacancy-company-redesigned').find('vacancy-view-location').text
+            city = soup.find('div', class_='vacancy-company-redesigned').find("span", attrs={
+                "data-qa": "vacancy-view-raw-address"}).text.split()[0].strip()
+            city = re.search(r'\w+', city).group()
             if not city:
                 city = "не указан"
             vacancy = {
@@ -83,12 +104,11 @@ def get_vacancies(links):
 
 
 def write_json(vacancies):
-    with open ('vacancies.json', 'w') as f:
-        json.dumps(vacancies)
+    with open('vacancies.json', 'w') as f:
+        json.dumps(vacancies, ensure_ascii=False)
         return
 
 
 if __name__ == "__main__":
-    # links = get_links('python')
-    print(get_vacancies(links=['https://hh.ru/vacancy/81639879?from=vacancy_search_list&query=python']))
-    # print(get_vacancies(links=links))
+    links = get_links('python')
+    print(get_vacancies(links))
